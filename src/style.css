@@ -71,8 +71,6 @@ li {
   flex-direction: column;
 }
 
-
-
 .score-list ul li:nth-child(even) {
   background-color: goldenrod;
 }
