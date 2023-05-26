@@ -35,12 +35,16 @@
 - **[CSS]**
 - **[html]**
 - **[java-script]**
-
+- **[webpack]**
 ## Additional Tools
 
 - WebHint
 - StyleLint
+- esLint
+- lighthouse 
 - Node Packet Manager
+- Node modules
+
 ### Key Features <a name="key-features"></a>
 
 - **[use html for the design ]**
@@ -60,7 +64,7 @@ In order to clone this project you need:
 -  go to your terminal 
 - write this command line : 
 
-git clone https://github.com/ANTOINE1128/leaderBoard
+git clone https://github.com/ANTOINE1128/Leaderboard
 
 - Clone this repository to your desired folder:
 
@@ -84,7 +88,7 @@ git clone https://github.com/ANTOINE1128/leaderBoard
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://antoine1128.github.io/leaderBoard/issues).
+Feel free to check the [issues page](https://github.com/ANTOINE1128/Leaderboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
