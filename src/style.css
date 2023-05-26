@@ -22,7 +22,7 @@ h2 {
 
 button {
   width: 100px;
-  height: 50px;
+  height: 42px;
   font-size: 16px;
   background-color: #c4bebe;
   border: none;
@@ -40,6 +40,9 @@ input[type='number'] {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
+#inserted-name {
+height: 80 px
+}
 
 ul {
   margin-bottom: 10px;
@@ -53,12 +56,12 @@ li {
 .container {
   display: flex;
   justify-content: space-between;
+  gap:8rem;
 }
 
 .score-list {
   border: 3px solid black;
-  display: flex;
-  flex-direction: column;
+
 }
 
 .left-top {
@@ -66,7 +69,7 @@ li {
 }
 
 .score-list ul {
-  width: 90%;
+  width: 71%;
   display: flex;
   flex-direction: column;
 }
