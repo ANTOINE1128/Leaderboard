@@ -1,5 +1,5 @@
 import './style.css';
-import addScore from './modules/Addscores.js';
+import addScore from './modules/addScore.js';
 
 const refreshBtn = document.getElementById('refresh');
 const submitBtn = document.getElementById('submit');
@@ -7,7 +7,7 @@ const insertedName = document.getElementById('inserted-name');
 const insertedScore = document.getElementById('inserted-score');
 const fetchedList = document.getElementById('fetched-list');
 
-const api = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/Zl4d7IVkemOTTVg2fUdz/scores/';
+const api = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/6lbvUiU6NvtGL9BW17VD/scores/';
 
 const displayScore = async () => {
   fetchedList.innerHTML = '';
