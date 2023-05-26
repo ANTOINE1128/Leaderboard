@@ -72,7 +72,7 @@ li {
 }
 
 .score-list ul li:nth-child(even) {
-  background-color: goldenrod;
+  background-color: rgb(218, 32, 57);
 }
 
 .left-side {
