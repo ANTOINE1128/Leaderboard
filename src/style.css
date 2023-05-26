@@ -40,9 +40,6 @@ input[type='number'] {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
-#inserted-name {
-height: 80 px
-}
 
 ul {
   margin-bottom: 10px;
@@ -56,12 +53,11 @@ li {
 .container {
   display: flex;
   justify-content: space-between;
-  gap:8rem;
+  gap: 8rem;
 }
 
 .score-list {
   border: 3px solid black;
-
 }
 
 .left-top {
