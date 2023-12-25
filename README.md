@@ -28,7 +28,7 @@
 
 # 📖 [Leader Board] <a name="Leader Board"></a>
 
-**[Leader Board]** it a project for keeping scores . 
+**[Leader Board]** The leaderboard website displays scores submitted by different players. It also allows you to submit your score.
 
 ## 🛠 Built With <a name="built-with"></a>
 
